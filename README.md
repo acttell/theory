@@ -4,3 +4,11 @@
 [kmean](https://blog.csdn.net/zouxy09/article/details/17589329)  
 [softmax](https://blog.csdn.net/grllery/article/details/97788745)
 [cross-entropy](https://blog.csdn.net/Hearthougan/article/details/82706834)
+[sigmoid](https://www.cnblogs.com/lliuye/p/9486500.html)
+[relu](https://blog.csdn.net/not_guy/article/details/78749509)
+[bp](https://www.cnblogs.com/charlotte77/p/5629865.html)
+[pool](https://blog.csdn.net/Hearthougan/article/details/72910223)
+[conv](https://www.cnblogs.com/charlotte77/p/7783261.html)  
+[alex](https://blog.csdn.net/sunbaigui/article/details/39938097/)
+[inception3](https://blog.csdn.net/loveliuzz/article/details/79135583)
+
