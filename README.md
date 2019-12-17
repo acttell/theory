@@ -18,4 +18,7 @@
 [muti-class](https://blog.csdn.net/qq_22238533/article/details/77774223)
 [xgb](https://mp.weixin.qq.com/s?__biz=MzI1MzY0MzE4Mg==&mid=2247485159&idx=1&sn=d429aac8370ca5127e1e786995d4e8ec&chksm=e9d01626dea79f30043ab80652c4a859760c1ebc0d602e58e13490bf525ad7608a9610495b3d&scene=21#wechat_redirect)
 [lgb](https://www.cnblogs.com/gczr/p/9023180.html)
+[xgb-1](https://cloud.tencent.com/developer/article/1513111)
+[xgb-2](https://blog.csdn.net/v_JULY_v/article/details/81410574)
+
 
