@@ -8,6 +8,8 @@
 [relu](https://blog.csdn.net/not_guy/article/details/78749509)
 [bp](https://www.cnblogs.com/charlotte77/p/5629865.html)
 [pool](https://blog.csdn.net/Hearthougan/article/details/72910223)
+[pooling](https://blog.csdn.net/Jason_yyz/article/details/80003271)
+[adam](https://www.cnblogs.com/GeekDanny/p/9655597.html)
 [conv](https://www.cnblogs.com/charlotte77/p/7783261.html)  
 [alex](https://blog.csdn.net/sunbaigui/article/details/39938097/)
 [inception3](https://blog.csdn.net/loveliuzz/article/details/79135583)
