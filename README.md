@@ -1,6 +1,8 @@
 [lr1](https://blog.csdn.net/zouxy09/article/details/20319673)
 [lr2](https://blog.csdn.net/dpengwang/article/details/86746233)
 [lr3](https://blog.csdn.net/ccblogger/article/details/81739200)
+[svm1](https://zhuanlan.zhihu.com/p/52168498)
+[hinge](https://www.cnblogs.com/guoyaohua/p/9436237.html)
 [kmean](https://blog.csdn.net/zouxy09/article/details/17589329)  
 [softmax](https://blog.csdn.net/grllery/article/details/97788745)
 [cross-entropy](https://blog.csdn.net/Hearthougan/article/details/82706834)
@@ -12,5 +14,8 @@
 [adam](https://www.cnblogs.com/GeekDanny/p/9655597.html)
 [conv](https://www.cnblogs.com/charlotte77/p/7783261.html)  
 [alex](https://blog.csdn.net/sunbaigui/article/details/39938097/)
-[inception3](https://blog.csdn.net/loveliuzz/article/details/79135583)
+[inception3](https://blog.csdn.net/loveliuzz/article/details/79135583)  
+[muti-class](https://blog.csdn.net/qq_22238533/article/details/77774223)
+[xgb](https://mp.weixin.qq.com/s?__biz=MzI1MzY0MzE4Mg==&mid=2247485159&idx=1&sn=d429aac8370ca5127e1e786995d4e8ec&chksm=e9d01626dea79f30043ab80652c4a859760c1ebc0d602e58e13490bf525ad7608a9610495b3d&scene=21#wechat_redirect)
+[lgb](https://www.cnblogs.com/gczr/p/9023180.html)
 
