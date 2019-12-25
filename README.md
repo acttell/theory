@@ -25,7 +25,10 @@
 [w2v-train](https://blog.csdn.net/qq_27586341/article/details/90236207)
 []()  
 [fm](https://blog.csdn.net/hiwallace/article/details/81333604)
-[ffm](https://blog.csdn.net/fantacy10000/article/details/95389659)
+[ffm](https://blog.csdn.net/fantacy10000/article/details/95389659)  
+[mtcnn](https://zhuanlan.zhihu.com/p/31913064)
+[centrel1](https://www.jianshu.com/p/219ce820f8b5)
+[centrel2](https://blog.csdn.net/u014380165/article/details/76946339)
 
 
 
