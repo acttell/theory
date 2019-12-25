@@ -25,6 +25,7 @@
 [w2v-train](https://blog.csdn.net/qq_27586341/article/details/90236207)
 []()  
 [fm](https://blog.csdn.net/hiwallace/article/details/81333604)
+[ffm](https://blog.csdn.net/fantacy10000/article/details/95389659)
 
 
 
