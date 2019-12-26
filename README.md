@@ -28,7 +28,9 @@
 [ffm](https://blog.csdn.net/fantacy10000/article/details/95389659)  
 [mtcnn](https://zhuanlan.zhihu.com/p/31913064)
 [centrel1](https://www.jianshu.com/p/219ce820f8b5)
-[centrel2](https://blog.csdn.net/u014380165/article/details/76946339)
-
+[centrel2](https://blog.csdn.net/u014380165/article/details/76946339) 
+[cbow-skip](https://www.cnblogs.com/pinard/p/7249903.html)
+[w2v](https://www.cnblogs.com/cherrychenlee/p/10800570.html)
+[cbow](https://www.zybuluo.com/evilking/note/871932)
 
 
