@@ -35,6 +35,9 @@
 [centrel2](https://blog.csdn.net/u014380165/article/details/76946339) 
 [cbow-skip](https://www.cnblogs.com/pinard/p/7249903.html)
 [w2v](https://www.cnblogs.com/cherrychenlee/p/10800570.html)
-[cbow](https://www.zybuluo.com/evilking/note/871932)
+[cbow](https://www.zybuluo.com/evilking/note/871932)  
+[w2v-src1](https://blog.csdn.net/u012180351/article/details/76682634)
+[w2v-math](https://www.cnblogs.com/peghoty/p/3857839.html)
+[src2](https://blog.csdn.net/google19890102/article/details/51887344)
 
 
