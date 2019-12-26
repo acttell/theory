@@ -23,6 +23,7 @@
 [hand-xgb](https://blog.csdn.net/weixin_43258017/article/details/99690968)  
 [U[0,1]](https://www.nowcoder.com/questionTerminal/d705737f5f2c42ce945d469c8fa18ba7?orderByHotValue=1&page=1&onlyReference=false)  
 [w2v-train](https://blog.csdn.net/qq_27586341/article/details/90236207)
+[w2v-math](https://www.cnblogs.com/peghoty/p/3857839.html)
 [w2v-src](https://blog.csdn.net/google19890102/article/details/51887344)  
 [fm](https://blog.csdn.net/hiwallace/article/details/81333604)
 [ffm](https://blog.csdn.net/fantacy10000/article/details/95389659)  
