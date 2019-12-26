@@ -39,5 +39,7 @@
 [w2v-src1](https://blog.csdn.net/u012180351/article/details/76682634)
 [w2v-math](https://www.cnblogs.com/peghoty/p/3857839.html)
 [src2](https://blog.csdn.net/google19890102/article/details/51887344)
+[src3](https://blog.csdn.net/enochx/article/details/52847696)  
+[w2v-simple](https://www.zhihu.com/question/44832436?sort=created)
 
 
