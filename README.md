@@ -41,5 +41,10 @@
 [src2](https://blog.csdn.net/google19890102/article/details/51887344)
 [src3](https://blog.csdn.net/enochx/article/details/52847696)  
 [w2v-simple](https://www.zhihu.com/question/44832436?sort=created)
+[quest1](https://www.jianshu.com/p/c7f0804f6d3a)
+[q2](https://www.cnblogs.com/pinard/p/7243513.html)
+[cbow-neg](https://www.cnblogs.com/pinard/p/7249903.html)
+[intra](https://blog.csdn.net/lilong117194/article/details/81979522)
+
 
 
