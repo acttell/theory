@@ -45,6 +45,9 @@
 [q2](https://www.cnblogs.com/pinard/p/7243513.html)
 [cbow-neg](https://www.cnblogs.com/pinard/p/7249903.html)
 [intra](https://blog.csdn.net/lilong117194/article/details/81979522)
+[parse](https://www.cnblogs.com/neopenx/p/4571996.html)
+[parse2](https://www.zybuluo.com/Dounm/note/591752)
+
 
 
 
