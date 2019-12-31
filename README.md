@@ -48,6 +48,8 @@
 [parse](https://www.cnblogs.com/neopenx/p/4571996.html)
 [parse2](https://www.zybuluo.com/Dounm/note/591752)  
 [xgb-pic](https://blog.csdn.net/huacha__/article/details/81029680)
+[lgbm](https://www.cnblogs.com/hugechuanqi/p/10584602.html)
+[]()
 
 
 
