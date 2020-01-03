@@ -48,8 +48,10 @@
 [parse](https://www.cnblogs.com/neopenx/p/4571996.html)
 [parse2](https://www.zybuluo.com/Dounm/note/591752)  
 [xgb-pic](https://blog.csdn.net/huacha__/article/details/81029680)
-[lgbm](https://www.cnblogs.com/hugechuanqi/p/10584602.html)
-[]()
+[lgbm](https://www.cnblogs.com/hugechuanqi/p/10584602.html)  
+[ftrl](https://www.cnblogs.com/zhangchaoyang/articles/6854175.html)
+[ftrl2](https://www.cnblogs.com/EE-NovRain/p/3810737.html)
+[3](http://www.coin163.com/it/2305973886331924394/FTRL)
 
 
 
