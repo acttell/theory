@@ -52,6 +52,9 @@
 [ftrl](https://www.cnblogs.com/zhangchaoyang/articles/6854175.html)
 [ftrl2](https://www.cnblogs.com/EE-NovRain/p/3810737.html)
 [3](http://www.coin163.com/it/2305973886331924394/FTRL)
+[4](http://blog.sina.com.cn/s/blog_6018cf350102weck.html)
+[5](https://blog.csdn.net/ningyanggege/article/details/81133785)
+[6](https://blog.csdn.net/a819825294/article/details/51227265)
 
 
 
