@@ -56,8 +56,8 @@
 [5](https://blog.csdn.net/ningyanggege/article/details/81133785)
 [6](https://blog.csdn.net/a819825294/article/details/51227265)  
 [gmm](https://www.cnblogs.com/tornadomeet/archive/2012/06/02/2531565.html)
-
-[]()  
+[orb](https://blog.csdn.net/Louis_F/article/details/82343787)
+[dhash](https://www.jianshu.com/p/193f0089b7a2)  
 
 [vgg16](https://www.cnblogs.com/lfri/p/10493408.html)
 [nms](https://www.cnblogs.com/makefile/p/nms.html)
