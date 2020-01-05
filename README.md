@@ -54,7 +54,16 @@
 [3](http://www.coin163.com/it/2305973886331924394/FTRL)
 [4](http://blog.sina.com.cn/s/blog_6018cf350102weck.html)
 [5](https://blog.csdn.net/ningyanggege/article/details/81133785)
-[6](https://blog.csdn.net/a819825294/article/details/51227265)
+[6](https://blog.csdn.net/a819825294/article/details/51227265)  
+[gmm](https://www.cnblogs.com/tornadomeet/archive/2012/06/02/2531565.html)
+
+[]()  
+
+[vgg16](https://www.cnblogs.com/lfri/p/10493408.html)
+[nms](https://www.cnblogs.com/makefile/p/nms.html)
+[ssd0](https://blog.csdn.net/thisiszdy/article/details/89576389)
+[ssd](https://zhuanlan.zhihu.com/p/42159963)
+[ssd](https://blog.csdn.net/u010712012/article/details/86555814)
 
 
 
