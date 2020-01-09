@@ -63,7 +63,10 @@
 [nms](https://www.cnblogs.com/makefile/p/nms.html)
 [ssd0](https://blog.csdn.net/thisiszdy/article/details/89576389)
 [ssd](https://zhuanlan.zhihu.com/p/42159963)
-[ssd](https://blog.csdn.net/u010712012/article/details/86555814)
+[ssd](https://blog.csdn.net/u010712012/article/details/86555814)  
+
+[ftrl](https://www.jianshu.com/p/e07ddc3ace8f)
+[2](https://www.jianshu.com/p/bf59a9970cd1)
 
 
 
