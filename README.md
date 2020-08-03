@@ -70,6 +70,8 @@
 [2](https://www.jianshu.com/p/bf59a9970cd1)
 [code](https://www.cnblogs.com/zhangchaoyang/articles/6854175.html)
 
+[logloss](http://www.fanyeong.com/2018/01/17/ml-loss-function/)
+
 
 
 
