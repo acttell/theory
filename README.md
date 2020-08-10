@@ -71,7 +71,7 @@
 [code](https://www.cnblogs.com/zhangchaoyang/articles/6854175.html)
 [feacolumn](https://blog.csdn.net/u014061630/article/details/82937333)
 [logloss](http://www.fanyeong.com/2018/01/17/ml-loss-function/)
-
+[adam adagrad](https://zhuanlan.zhihu.com/p/32230623)
 [dssm](https://blog.csdn.net/abc50319/article/details/106048021/)
 
 
